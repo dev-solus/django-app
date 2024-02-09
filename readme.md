@@ -27,5 +27,13 @@ djm2x
 djm2x@hotmail.com
 123
 
+python manage.py startapp quotes
+
+python manage.py check
+
+python manage.py makemigrations
+
+python manage.py migrate
+
 git config --global user.email "mohamed-mourabit@digitransform.co"
   git config --global user.name "mohamed.mourabit"
